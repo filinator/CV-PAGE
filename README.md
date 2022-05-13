@@ -20,6 +20,7 @@
   
   <details>
     <summary> Дополнение CV с учетом новых заданий в HW4: </summary> <br>
-       <p>⓵ Добавил background image в контейнер header <br>с использованием псевдокласса hover</p><br>
-       <p>⓶ Добавил еще один виджет "skills" и применил <br>к нему свойство "display: inline-block"</p>
+       <p>➀ Убрал лишние пробелы и отусупы в коде</p><br>
+       <p>➁ Добавил еще один виджет "skills" и применил <br>к нему свойство "display: inline-block"</p> <br>
+       <p>➂ Добавил background image в контейнер header <br>с использованием псевдокласса hover"</p>
   </details>

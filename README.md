@@ -8,3 +8,13 @@
   <li>Применил такие свойства, как "color", "background-color", "font-size",<br> "margin", "overflow" и др.</li>
   <li>Так же применил псевдокласс "hover"</li>
 </ul>
+ 
+<h2>Дополнение CV с учетом новых заданий в HW4</h2>
+   <details>
+     <summary> Personality: </summary>
+            <p>Communicative</p>
+            <p>Creativity</p>
+            <p>Punctuality</p>
+            <p>Sociable</p>
+
+        </details>

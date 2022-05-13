@@ -9,7 +9,7 @@
   <li>Так же применил псевдокласс "hover"</li>
 </ul>
  
-<h2>HW4</h2>
+<h2>HW4 ⚠</h2>
   <ol>
     <li>Закрепил вложенность в CSS</li>
     <li>Закрепил наследование в CSS</li>
@@ -19,8 +19,7 @@
   <h3>А так же:</h3>
   
   <details>
-    
-     <summary> Дополнение CV с учетом новых заданий в HW4: </summary>
-            <p>Добавил background image в контейнер header <br>с использованием псевдокласса hover</p>
-            <p>Добавил еще один виджет "skills" и применил <br>к нему свойство "display: inline-block"</p>
+    <summary> Дополнение CV с учетом новых заданий в HW4: </summary> <br>
+       <p>⓵ Добавил background image в контейнер header <br>с использованием псевдокласса hover</p><br>
+       <p>⓶ Добавил еще один виджет "skills" и применил <br>к нему свойство "display: inline-block"</p>
   </details>

@@ -19,6 +19,7 @@
   <h3>А так же:</h3>
   
   <details>
+    
      <summary> Дополнение CV с учетом новых заданий в HW4: </summary>
             <p>Добавил background image в контейнер header <br>с использованием псевдокласса hover</p>
             <p>Добавил еще один виджет "skills" и применил <br>к нему свойство "display: inline-block"</p>

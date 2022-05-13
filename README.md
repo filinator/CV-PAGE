@@ -9,12 +9,17 @@
   <li>Так же применил псевдокласс "hover"</li>
 </ul>
  
-<h2>Дополнение CV с учетом новых заданий в HW4</h2>
-   <details>
-     <summary> Personality: </summary>
-            <p>Communicative</p>
-            <p>Creativity</p>
-            <p>Punctuality</p>
-            <p>Sociable</p>
-
-        </details>
+<h2>HW4</h2>
+  <ol>
+    <li>Закрепил вложенность в CSS</li>
+    <li>Закрепил наследование в CSS</li>
+    <li>Закрепил свойство line-height</li>
+  </ol>
+  
+  <h3>А так же:</h3>
+  
+  <details>
+     <summary> Дополнение CV с учетом новых заданий в HW4: </summary>
+            <p>Добавил background image в контейнер header <br>с использованием псевдокласса hover</p>
+            <p>Добавил еще один виджет "skills" и применил <br>к нему свойство "display: inline-block"</p>
+  </details>

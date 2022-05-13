@@ -1,0 +1,85 @@
+body {
+    margin: 0%;
+}
+
+h1,
+h2 {
+    margin: 0%;
+    color: #7a5871;
+}
+
+.header {
+    height: 33vh;
+    background-color: #c3dbf2;
+    text-align: center;
+    outline: 2px solid #7c7c7c;
+    font-family: 'Koulen', cursive;
+    overflow: auto;
+}
+
+
+.header>img {
+    height: 180px;
+    border-radius: 50%;
+}
+
+main {
+    height: 51vh;
+    background-color: #e4edf9;
+    margin: 0%;
+    outline: 2px solid #7c7c7c;
+    font-family: 'Koulen', cursive;
+    overflow: auto;
+}
+
+footer {
+    height: 16vh;
+    background-color: #c3dbf2;
+    outline: 2px solid #7c7c7c;
+    overflow: auto;
+    font-family: 'Koulen', cursive;
+    text-align: center;
+}
+
+details {
+    color: #7c7c7c;
+    font-size: 150%;
+    text-align: center;
+    line-height: 50px;
+}
+
+p {
+    color: #98668b;
+}
+
+a {
+    Font-size: 150%;
+    text-align: center;
+    display: block;
+    margin: 0;
+    display: inline-block;
+}
+
+img {
+    height: 30px;
+}
+
+summary:hover {
+    color: #8c78d3;
+    transition: 0.5s;
+}
+
+input {
+    background-color: #e4edf9;
+}
+
+.block>p {
+    display: inline-block;
+}
+
+.header:hover {
+    background-image: url('горы.jpg');
+    background-size: cover;
+    background-position: center;
+    transition: 1s;
+}
